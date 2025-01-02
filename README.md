@@ -32,13 +32,12 @@ A bash script that automates cybersecurity and network research tasks using Tor,
   ```bash
 chmod +x remote_control.sh
 
-Usage
-Run the script:
+## Usage
 
-bash
-Copy code
+### Run the Script
+  ```bash
 ./remote_control.sh
-Follow prompts to:
+Follow the prompts to:
 
 Verify anonymity.
 Input target IP/domain.

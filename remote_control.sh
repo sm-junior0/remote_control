@@ -89,7 +89,7 @@ function generate_audit_log {
     echo "Collected WHOIS and Nmap data." >> audit_log_$target_ip_or_domain.txt
 }
 
-# Generate audit log
+# Generate audit log this is a file
 generate_audit_log
 
 # Completion message
